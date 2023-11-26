@@ -1,0 +1,15 @@
+2023-11-09 13:12:20 [Warning: Found malicious traffic signature based detection CVE 2019-8942] from IP:192.168.75.156 to IP:192.168.75.158
+2023-11-09 13:12:20 [Warning: Found malicious traffic signature based detection CVE 2019-8942] from IP:192.168.75.156 to IP:192.168.75.158
+2023-11-09 13:12:20 [Warning: Found malicious traffic signature based detection CVE 2019-8942] from IP:192.168.75.156 to IP:192.168.75.158
+2023-11-09 13:12:55 [Warning: Found malicious traffic signature based detection CVE 2019-8942] from IP:192.168.75.156 to IP:192.168.75.158
+2023-11-09 13:12:55 [Warning: Found malicious traffic signature based detection CVE 2019-8942] from IP:192.168.75.156 to IP:192.168.75.158
+2023-11-09 13:12:56 [Warning: Found malicious traffic signature based detection CVE 2019-8942] from IP:192.168.75.156 to IP:192.168.75.158
+2023-11-09 13:12:57 [Warning: Found malicious traffic signature based detection CVE 2019-8942] from IP:192.168.75.156 to IP:192.168.75.158
+2023-11-09 13:12:57 [Warning: Found malicious traffic signature based detection CVE 2019-8942] from IP:192.168.75.156 to IP:192.168.75.158
+2023-11-09 13:12:58 [Warning: Found malicious traffic signature based detection CVE 2019-8942] from IP:192.168.75.156 to IP:192.168.75.158
+2023-11-09 13:16:56 [Warning: Found malicious traffic signature based detection CVE 2019-8942] from IP:192.168.75.156 to IP:192.168.75.158
+2023-11-09 13:16:56 [Warning: Found malicious traffic signature based detection CVE 2019-8942] from IP:192.168.75.156 to IP:192.168.75.158
+2023-11-09 13:16:56 [Warning: Found malicious traffic signature based detection CVE 2019-8942] from IP:192.168.75.156 to IP:192.168.75.158
+2023-11-09 13:17:29 [Warning: Found malicious traffic signature based detection CVE 2019-8942] from IP:192.168.75.156 to IP:192.168.75.158
+2023-11-09 13:17:29 [Warning: Found malicious traffic signature based detection CVE 2019-8942] from IP:192.168.75.156 to IP:192.168.75.158
+2023-11-09 13:17:29 [Warning: Found malicious traffic signature based detection CVE 2019-8942] from IP:192.168.75.156 to IP:192.168.75.158
