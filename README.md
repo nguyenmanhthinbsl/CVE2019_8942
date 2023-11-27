@@ -1,4 +1,4 @@
-# CVE2019_8942
+# CVE 2019_8942
 demo detecting cve 2019 8942 based on signature based detection
 
 to run this project
