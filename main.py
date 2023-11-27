@@ -63,17 +63,13 @@ def is_attack_packet(packet):
         return False
     data = str(packet['packet_data'])
     # if "0x6d6574615f696e7075745b5f77705f61747461636865645f66696c655d"  in data:
-    # if "8&meta_input%5b_wp_attached_file%5d=" in data:
-    if "8&meta_input%5b_wp_" in data:
+    if "8&meta_input%5b_wp_attached_file%5d=" and "/../../../themes"in data:
         return True
     return False
 
 def main():
     parser = argparse.ArgumentParser(description='Capture live network packets.')
     parser.add_argument('-i', '--interface', dest='network_interface', required=True, help='Network interface to capture packets from')
-# parser.add_argument('-o', '--output', dest='traffic_file', required=True, help='Output traffic file (e.g., traffic_file.csv)')
-    # parser.add_argument('-l', '--logfile', dest='logfile', required=True, help='Log file (e.g., logfile.txt)')
-
     args = parser.parse_args()
 
     try:
